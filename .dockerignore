@@ -1,0 +1,9 @@
+node_modules
+dist
+Dockerfile
+.github
+.gitignore
+# Línea comentada > *.env
+.editorconfig
+.prettierrc
+README.md
